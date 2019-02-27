@@ -17,7 +17,7 @@ It is complete ready to use Responsive ToDO List. This project is build in node.
 - Unlimited lists can be made.
 - Unlimited items/Todo tasks can be added to each different list.
 - Mobile as well as Desktop Friendly
-- Emoji Supported :wink:. To use `Emoji in Windows` press `Win + .`
+- Emoji Supported :wink:. To use `Emoji in Windows` press `Win` + `.` ***OR*** `Win` + `period`
 - Bottom navigation bar for fast navigation.
 - Well formated code and can be understandable by anyone.
 
