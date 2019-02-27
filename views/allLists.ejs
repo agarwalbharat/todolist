@@ -1,0 +1,31 @@
+<%- include("header") -%>
+
+<div class="box" id="heading">
+  <h1>
+    <%= listTitle %>
+  </h1>
+</div>
+<% if(error!==""){ %>
+<div class="box">
+      <p style="color:red"><%= error %></p>
+</div>
+<%}%>
+<div class="box">
+  <% allLists.forEach(function(list){ %>
+    <form action="/deleteList" method="post">
+    <div class="item">
+      <input type="checkbox" onChange="this.form.submit()" name="checkbox" value="<%= list.name %>">
+      <p>
+        <a href="/lists?list=<%=list.name %>" class="item"><%=  list.name + " List"  %></a>
+      </p>
+    </div>
+    </form>
+  <%  }); %>
+
+  <form class="item" action="/allLists" method="post">
+    <input type="text" name="newList" placeholder="New List" autocomplete="off" required>
+    <button type="submit" name="list">+</button>
+  </form>
+</div>
+
+<%- include("footer") -%>

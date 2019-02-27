@@ -1,0 +1,30 @@
+<div class="hid" id="two">
+  <% if(listTitle ==="about"){ %>
+  <a href="/" class="rout nav">All</a>
+  <a href="/allLists" class="rout navm">Add/All Lists</a>
+  <% }else if(listTitle==="All"){%>
+    <a href="/allLists" class="rout navm">Add/All Lists</a>
+    <a href="/about" class="rout navm">About</a>
+  <% }else {%>
+  <a href="/" class="rout item">All</a>
+  <a href="/allLists" class="rout navm">Add/All Lists</a>
+  <a href="/about" class="rout navm">About</a>
+  <% } %>
+
+</div>
+<footer>
+</footer>
+<div class="nav nolog" align="center">
+  <div class="container" onclick="myFunction(this)">
+  <div class="bar1"></div>
+  <div class="bar2"></div>
+  <div class="bar3"></div>
+</div>
+</div>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="js/animate.js"></script>
+</body>
+
+</html>
