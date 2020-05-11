@@ -22,7 +22,7 @@ It is complete ready to use Responsive ToDO List. This project is build in node.
 - Well formated code and can be understandable by anyone.
 
 ### Show some :heart: and :star: the repo to support the project. 
-For more, contact me @[facebook](https://www.facebook.com/bharatagsrwal), @[Twitter](https://www.twitter.com/bharatagsrwal) or @[Website](https://iambharat.tk)
+For more, contact me @[facebook](https://www.facebook.com/bharatagsrwal), @[Twitter](https://www.twitter.com/bharatagsrwal) or @[Website](https://iambharat.me) @[Medium](https://medium.com/@agarwalbharat68/)
 ### Screenshots
 #### Desktop
 <img src="/Screenshots/1.jpg" height="200em" /> <img src="/Screenshots/3.jpg" height="200em" />
@@ -51,8 +51,8 @@ I welcome and encourage all pull requests. It usually will take me within 10-21 
 5. Create new Pull Request
 
 ### Created By :sunglasses:
-[Bharat](https://github.com/bharatagsrwal) ([Facebook](https://www.facebook.com/bharatagsrwal)) ([Linkedin](https://www.linkedin.com/in/bharatagsrwal)) ([Hackerrank](https://www.hackerrank.com/bharatagsrwal))
-([Website](https://iambharat.tk))([Twitter](https://www.twitter.com/bharatagsrwal))
+[Bharat](https://github.com/bharatagsrwal) ([Facebook](https://www.facebook.com/bharatagsrwal)) ([Linkedin](https://www.linkedin.com/in/bharatagsrwal)) ([Medium](https://medium.com/@agarwalbharat68/))
+([Website](https://iambharat.me))([Twitter](https://www.twitter.com/bharatagsrwal))
 
 ### Implementation :innocent:
 
@@ -69,5 +69,5 @@ Write me in [issues](https://github.com/bharatagsrwal/todolist/issues) section. 
 
 ## Follow :trophy:
 Follow me on :punch:
-[Bharat](https://github.com/bharatagsrwal) ([Facebook](https://www.facebook.com/bharatagsrwal)) ([Linkedin](https://www.linkedin.com/in/bharatagsrwal)) ([Hackerrank](https://www.hackerrank.com/bharatagsrwal))
-([Website](https://iambharat.tk))([Twitter](https://www.twitter.com/bharatagsrwal))
+[Bharat](https://github.com/bharatagsrwal) ([Facebook](https://www.facebook.com/bharatagsrwal)) ([Linkedin](https://www.linkedin.com/in/bharatagsrwal)) ([Medium](https://medium.com/@agarwalbharat68/))
+([Website](https://iambharat.me))([Twitter](https://www.twitter.com/bharatagsrwal))
